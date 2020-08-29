@@ -1,5 +1,6 @@
 # ptrace-capstone
-This is a sample code for ptrace dbg with capstone lib. 
+This is a sample code for ptrace dbg with capstone lib. I just wrote the code for my research, but fill free to use it!.
+Note that the code 
 
 # Usages
 ```
